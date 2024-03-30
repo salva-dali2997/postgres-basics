@@ -1,0 +1,5 @@
+DB_NAME = "test_db"
+DB_USER = "admin"
+DB_PASS = "root"
+DB_HOST = "localhost"
+DB_PORT = "5432"

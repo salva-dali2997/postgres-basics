@@ -1,5 +1,4 @@
 import psycopg2
- 
 DB_NAME = "test_db"
 DB_USER = "admin"
 DB_PASS = "root"

@@ -12,5 +12,5 @@ Now to install the requirements -
 Now that python has been initialized, let's spin up the containers. The `compose.yaml` is a Docker Compose file that will create multiple containers to run the Postgres database. To create this, run -
 ```docker compose up -d```
 Which runs the containers in detached (-d) mode. You should now be able to visit 
-`http://localhost:5050` to view the pgadmin console used to interact with the Postgres DB.
+[http://localhost:5050] to view the pgadmin console used to interact with the Postgres DB.
 

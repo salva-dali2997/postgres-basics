@@ -9,4 +9,4 @@ try:
     conn.execute("DELETE TABLE test;")
     print("Database table deleted succussfully")
 except:
-    print("Database table no deleted succussfully")
+    print("Database table not deleted succussfully")
